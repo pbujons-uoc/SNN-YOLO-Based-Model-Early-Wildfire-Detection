@@ -1,0 +1,7 @@
+torchinfo
+spikingjelly
+codecarbon
+ultralytics
+polars
+# Editable install for SpikeYOLO (kept as a comment; installation must be done manually)
+-e SpikeYOLO/
