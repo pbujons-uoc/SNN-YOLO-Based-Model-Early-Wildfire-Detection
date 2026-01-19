@@ -1,0 +1,25 @@
+{
+  "video": "big_fire1",
+  "model": "VanillaCNN",
+  "encoding": null,
+  "temporal_mode": null,
+  "frames_processed": 1390,
+  "encode_duration_s": 0.0,
+  "inference_emissions_kg": 0.00011964212904855329,
+  "total_emissions_kg": 0.00011964212904855329,
+  "inference_duration_s": 13.81923794746399,
+  "total_duration_s": 13.81923794746399,
+  "emissions_per_frame_kg": 8.607347413564984e-08,
+  "inference_emissions_per_frame_kg": 8.607347413564984e-08,
+  "energy_per_frame_kwh": 3.2237256230580465e-07,
+  "inference_mean_kg_per_min": 0.0005194590157723242,
+  "inference_records": [],
+  "prediction_records": [
+    {
+      "start": "2026-01-04T14:31:56.651872",
+      "end": "2026-01-04T14:32:10.471110",
+      "duration_s": 13.81923794746399,
+      "emissions_kg": 0.00011964212904855329
+    }
+  ]
+}

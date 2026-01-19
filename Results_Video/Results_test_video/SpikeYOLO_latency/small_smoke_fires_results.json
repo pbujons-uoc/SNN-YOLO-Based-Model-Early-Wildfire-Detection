@@ -1,0 +1,13 @@
+{
+  "model": "SpikeYOLO_latency",
+  "encoding": "latency",
+  "temporal_mode": "batched",
+  "video": "small_smoke_fires",
+  "frames_processed": 844,
+  "inference_time_s": 9.431864023208618,
+  "inference_energy_kwh": 0.001279711189563767,
+  "emissions_kg_co2": 0.00022273373254357368,
+  "time_per_frame_s": 0.011175194340294571,
+  "energy_per_frame_kwh": 1.5162454852651267e-06,
+  "fps": 89.48390243150264
+}

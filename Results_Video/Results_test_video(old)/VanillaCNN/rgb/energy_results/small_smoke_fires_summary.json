@@ -1,0 +1,25 @@
+{
+  "video": "small_smoke_fires",
+  "model": "VanillaCNN",
+  "encoding": null,
+  "temporal_mode": null,
+  "frames_processed": 842,
+  "encode_duration_s": 0.0,
+  "inference_emissions_kg": 7.124891620128166e-05,
+  "total_emissions_kg": 7.124891620128166e-05,
+  "inference_duration_s": 7.771145820617676,
+  "total_duration_s": 7.771145820617676,
+  "emissions_per_frame_kg": 8.461866532218725e-08,
+  "inference_emissions_per_frame_kg": 8.461866532218725e-08,
+  "energy_per_frame_kwh": 3.1692384015800464e-07,
+  "inference_mean_kg_per_min": 0.0005501035588259125,
+  "inference_records": [],
+  "prediction_records": [
+    {
+      "start": "2026-01-05T17:22:30.916488",
+      "end": "2026-01-05T17:22:38.687634",
+      "duration_s": 7.771145820617676,
+      "emissions_kg": 7.124891620128166e-05
+    }
+  ]
+}

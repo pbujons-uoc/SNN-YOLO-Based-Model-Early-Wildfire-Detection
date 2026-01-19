@@ -1,0 +1,2 @@
+phase,total_time_s,total_energy_kwh,total_emissions_kg_co2,avg_time_per_image_s,avg_energy_per_image_kwh,avg_emissions_per_image_kg_co2
+inference,35.44498300552368,0.09633520786176253,0.01676374324715665,0.00823153344299203,2.237231952200709e-05,3.893112690932803e-06

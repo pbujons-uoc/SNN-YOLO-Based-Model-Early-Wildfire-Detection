@@ -1,0 +1,9 @@
+metric,value
+confidence_threshold,0.2
+precision,0.018083961248654468
+recall,0.016175621028307337
+F1,0.017076641593819882
+TP,84
+FP,4561
+FN,5109
+num_images,4306

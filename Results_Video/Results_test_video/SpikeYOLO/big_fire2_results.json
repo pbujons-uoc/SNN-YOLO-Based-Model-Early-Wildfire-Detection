@@ -1,0 +1,13 @@
+{
+  "model": "SpikeYOLO",
+  "encoding": null,
+  "temporal_mode": null,
+  "video": "big_fire2",
+  "frames_processed": 1608,
+  "inference_time_s": 18.90238642692566,
+  "inference_energy_kwh": 0.0017784529023127332,
+  "emissions_kg_co2": 0.00030953972764753126,
+  "time_per_frame_s": 0.011755215439630385,
+  "energy_per_frame_kwh": 1.1060030487019486e-06,
+  "fps": 85.06862380664651
+}

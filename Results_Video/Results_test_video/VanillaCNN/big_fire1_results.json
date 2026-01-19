@@ -1,0 +1,13 @@
+{
+  "model": "VanillaCNN",
+  "encoding": null,
+  "temporal_mode": null,
+  "video": "big_fire1",
+  "frames_processed": 1390,
+  "inference_time_s": 2.584566593170166,
+  "inference_energy_kwh": 0.00024832360171353447,
+  "emissions_kg_co2": 4.3220722878240675e-05,
+  "time_per_frame_s": 0.0018594004267411266,
+  "energy_per_frame_kwh": 1.7865007317520466e-07,
+  "fps": 537.8077715904623
+}

@@ -1,0 +1,13 @@
+{
+  "model": "YOLO",
+  "encoding": null,
+  "temporal_mode": null,
+  "video": "big_fire1",
+  "frames_processed": 1390,
+  "inference_time_s": 15.25841498374939,
+  "inference_energy_kwh": 0.0008645589313395521,
+  "emissions_kg_co2": 0.00015047648199964904,
+  "time_per_frame_s": 0.01097727696672618,
+  "energy_per_frame_kwh": 6.219848426903253e-07,
+  "fps": 91.0972733065909
+}

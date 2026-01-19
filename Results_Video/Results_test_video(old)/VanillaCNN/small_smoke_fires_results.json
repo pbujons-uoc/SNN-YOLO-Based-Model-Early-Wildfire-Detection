@@ -1,0 +1,13 @@
+{
+  "model": "VanillaCNN",
+  "encoding": null,
+  "temporal_mode": null,
+  "video": "small_smoke_fires",
+  "frames_processed": 842,
+  "inference_time_s": 8.712257623672485,
+  "inference_energy_kwh": 0.00034387532214384735,
+  "emissions_kg_co2": 5.9851499819136634e-05,
+  "time_per_frame_s": 0.010347099315525517,
+  "energy_per_frame_kwh": 4.084029954202463e-07,
+  "fps": 96.64544327892258
+}

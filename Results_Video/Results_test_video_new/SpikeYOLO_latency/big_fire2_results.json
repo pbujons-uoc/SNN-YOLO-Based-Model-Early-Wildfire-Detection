@@ -1,0 +1,13 @@
+{
+  "model": "SpikeYOLO_latency",
+  "encoding": "latency",
+  "temporal_mode": "batched",
+  "video": "big_fire2",
+  "frames_processed": 1608,
+  "inference_time_s": 17.430305242538452,
+  "inference_energy_kwh": 0.002423286638080553,
+  "emissions_kg_co2": 0.00042177303935792026,
+  "time_per_frame_s": 0.010839742066255256,
+  "energy_per_frame_kwh": 1.5070190535326822e-06,
+  "fps": 92.25311763764728
+}

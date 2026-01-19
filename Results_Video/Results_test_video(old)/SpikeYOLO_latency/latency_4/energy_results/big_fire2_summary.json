@@ -1,0 +1,25 @@
+{
+  "video": "big_fire2",
+  "model": "SpikeYOLO_latency",
+  "encoding": "latency",
+  "temporal_mode": "sliding",
+  "frames_processed": 1608,
+  "encode_duration_s": 11.992427110671997,
+  "inference_emissions_kg": 0.0026467883235429795,
+  "total_emissions_kg": 0.0026467883235429795,
+  "inference_duration_s": 199.57658576965332,
+  "total_duration_s": 211.56901288032532,
+  "emissions_per_frame_kg": 1.6460126390192658e-06,
+  "inference_emissions_per_frame_kg": 1.6460126390192658e-06,
+  "energy_per_frame_kwh": 6.164841344641444e-06,
+  "inference_mean_kg_per_min": 0.0007957210952384488,
+  "inference_records": [
+    {
+      "start": "2026-01-05T17:02:40.029212",
+      "end": "2026-01-05T17:05:59.605798",
+      "duration_s": 199.57658576965332,
+      "emissions_kg": 0.0026467883235429795
+    }
+  ],
+  "prediction_records": []
+}

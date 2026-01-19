@@ -1,0 +1,13 @@
+{
+  "model": "YOLO",
+  "encoding": null,
+  "temporal_mode": null,
+  "video": "small_smoke_fires",
+  "frames_processed": 842,
+  "inference_time_s": 5.527405023574829,
+  "inference_energy_kwh": 0.0004701540250044238,
+  "emissions_kg_co2": 8.183030805201996e-05,
+  "time_per_frame_s": 0.0065646140422503906,
+  "energy_per_frame_kwh": 5.583777019054915e-07,
+  "fps": 152.3318802238667
+}

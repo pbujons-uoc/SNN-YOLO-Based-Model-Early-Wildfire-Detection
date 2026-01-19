@@ -1,0 +1,13 @@
+{
+  "model": "SpikeYOLO_poisson",
+  "encoding": "poisson",
+  "temporal_mode": "batched",
+  "video": "big_fire2",
+  "frames_processed": 1608,
+  "inference_time_s": 17.50298500061035,
+  "inference_energy_kwh": 0.0024445112581427436,
+  "emissions_kg_co2": 0.00042546718447974453,
+  "time_per_frame_s": 0.010884940920777582,
+  "energy_per_frame_kwh": 1.5202184441186217e-06,
+  "fps": 91.87004387788295
+}
